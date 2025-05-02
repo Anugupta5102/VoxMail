@@ -14,12 +14,11 @@ A Python application that provides an accessible email service for visually impa
 - Compose and send emails
 - Read inbox messages
 - Access sent emails
-- Search emails
 
 ### Voice Commands:
 
 - Compose
-- Send
+- Read
 - Logout
   
 
